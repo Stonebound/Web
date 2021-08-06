@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="320"
+   height="320"
+   viewBox="0 0 256 256"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="safari-pinned-tab.svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1265"
+     inkscape:window-height="834"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="2.0538732"
+     inkscape:cx="-14.843792"
+     inkscape:cy="44.735287"
+     inkscape:window-x="12"
+     inkscape:window-y="8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     units="px" />
+  <metadata
+     id="metadata4">
+Created by potrace 1.11, written by Peter Selinger 2001-2013
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer"
+     transform="translate(0,240)">
+    <g
+       transform="matrix(0.08,0,0,-0.08,18.673665,-9.017767)"
+       id="g6"
+       style="fill:#000000;stroke:none">
+      <path
+         d="m 1210,2508 c -7,-7 -81,-119 -166,-248 C 959,2131 803,1895 697,1735 592,1576 507,1442 507,1439 c 4,-13 13,-64 19,-108 3,-25 7,-56 9,-67 2,-12 6,-48 10,-80 4,-33 9,-70 11,-84 2,-14 6,-45 9,-70 3,-25 8,-58 10,-75 3,-16 7,-46 9,-65 3,-19 10,-69 16,-110 5,-41 12,-95 15,-120 3,-25 10,-76 16,-115 6,-38 13,-95 15,-125 3,-30 9,-58 12,-62 4,-3 135,-57 292,-118 157,-62 326,-129 375,-149 l 90,-36 205,125 c 113,69 248,151 302,183 97,59 101,64 114,132 26,137 186,900 189,906 3,4 0,13 -7,21 -7,7 -47,51 -88,98 -41,47 -81,92 -90,101 -8,8 -40,44 -70,79 -30,35 -60,68 -65,74 -6,6 -44,49 -85,96 -41,47 -77,87 -80,90 -3,3 -39,43 -80,90 -41,47 -79,90 -85,96 -13,14 -135,151 -155,174 -186,213 -187,214 -210,188 z"
+         id="path8"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
