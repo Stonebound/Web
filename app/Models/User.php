@@ -54,4 +54,14 @@ class User extends Authenticatable implements MustVerifyEmail
         'email_verified_at' => 'datetime',
         'picture_legacy' => 'boolean',
     ];
+
+    public function toArray() : array
+    {
+        return [
+            'id' => $this->id,
+            'name' => $this->name,
+            'email' => $this->email,
+            'created_at' => $this->created_at,
+        ];
+    }
 }
