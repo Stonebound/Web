@@ -13,6 +13,11 @@
                             {{ session('status') }}
                         </div>
                     @endif
+                    @if (session('verified'))
+                        <div class="alert alert-success" role="alert">
+                            Successfully verified your email!
+                        </div>
+                    @endif
 
                     {{ __('You are logged in!') }}
                 </div>
